@@ -1,5 +1,11 @@
-#Technologies Used : 
-##React | Tailwind CSS
+# To-Do-List-WebApp
+
+## Description
+MyTask is a todo list web application in which user can add his/her daily task. User can also edit or delete that task depending on his/her choice. 
+
+## Technologies Used
+- React
+- Tailwind CSS
 
 # React + Vite
 
