@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: url('/public/pexels-polina-kovaleva-5717421.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    height: 100vh; /* Ensures background covers the entire viewport height */
+    overflow-y: auto; /* Allow vertical scrolling */
+    padding-top: 50px; /* Adjust based on the height of your navbar */
+  }
+  
